@@ -39,7 +39,9 @@ Tableau Public: File > Save to Tableau Public. Extracts under the Tableau Public
 6. New Dashboard: drag the three sheets in.
 7. Publish As... > name the workbook > Publish. The dashboard opens at a public.tableau.com profile URL.
 
-Limits of the browser editor: no custom dark theme, fewer formatting controls than Desktop, and web authoring publishes only to Tableau Public (the workbook is public by design).
+Dark theme in the browser editor: Format > Shading > Hex Value works for worksheet fill, dashboard background and workbook font colour (`#0F1426` fill, `#E6EAF5` text). Sheet titles are edited by right-click > Edit Title. Resize panes by dragging the divider between them.
+
+Limits of the browser editor: no .tps palette files, fewer formatting controls than Desktop, and web authoring publishes only to Tableau Public (the workbook is public by design).
 
 ## Note
 The `.hyper` is created by `analysis.py` using the `pantab` library. The workbook lives on Tableau Public (link above); a downloadable `.twbx` can be exported from there if needed.
