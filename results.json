@@ -1,0 +1,184 @@
+{
+ "excluded_pre_oct_2017": 5888,
+ "tweets": 2811774,
+ "conversations": 781458,
+ "answered": 729319,
+ "brands": 108,
+ "answered_pct": 93.3,
+ "unanswered": 52139,
+ "percentiles": {
+  "p10": 2.7,
+  "p25": 6.6,
+  "p50": 24.3,
+  "p75": 126.8,
+  "p90": 546.5,
+  "p95": 1130.6,
+  "p99": 4471.8
+ },
+ "mean_min": 266.7,
+ "within_1h_pct": 64.6,
+ "within_4h_pct": 82.6,
+ "brand_table": [
+  {
+   "brand": "AmazonHelp",
+   "answered_conversations": 76473,
+   "median_frt_min": 10.7,
+   "p90_frt_min": 32.9,
+   "within_1h_pct": 95.9,
+   "within_4h_pct": 99.2
+  },
+  {
+   "brand": "AppleSupport",
+   "answered_conversations": 74453,
+   "median_frt_min": 88.3,
+   "p90_frt_min": 469.2,
+   "within_1h_pct": 41.2,
+   "within_4h_pct": 75.4
+  },
+  {
+   "brand": "Uber_Support",
+   "answered_conversations": 39245,
+   "median_frt_min": 7.5,
+   "p90_frt_min": 125.8,
+   "within_1h_pct": 84.0,
+   "within_4h_pct": 96.0
+  },
+  {
+   "brand": "SpotifyCares",
+   "answered_conversations": 25955,
+   "median_frt_min": 62.3,
+   "p90_frt_min": 233.0,
+   "within_1h_pct": 49.1,
+   "within_4h_pct": 90.4
+  },
+  {
+   "brand": "Delta",
+   "answered_conversations": 24453,
+   "median_frt_min": 10.5,
+   "p90_frt_min": 75.4,
+   "within_1h_pct": 85.5,
+   "within_4h_pct": 99.3
+  },
+  {
+   "brand": "AmericanAir",
+   "answered_conversations": 24248,
+   "median_frt_min": 11.8,
+   "p90_frt_min": 46.8,
+   "within_1h_pct": 94.2,
+   "within_4h_pct": 99.9
+  },
+  {
+   "brand": "comcastcares",
+   "answered_conversations": 21608,
+   "median_frt_min": 41.7,
+   "p90_frt_min": 264.8,
+   "within_1h_pct": 56.8,
+   "within_4h_pct": 88.3
+  },
+  {
+   "brand": "SouthwestAir",
+   "answered_conversations": 20546,
+   "median_frt_min": 7.4,
+   "p90_frt_min": 39.8,
+   "within_1h_pct": 93.3,
+   "within_4h_pct": 99.0
+  },
+  {
+   "brand": "TMobileHelp",
+   "answered_conversations": 19791,
+   "median_frt_min": 2.6,
+   "p90_frt_min": 16.4,
+   "within_1h_pct": 98.4,
+   "within_4h_pct": 99.5
+  },
+  {
+   "brand": "Ask_Spectrum",
+   "answered_conversations": 16757,
+   "median_frt_min": 31.7,
+   "p90_frt_min": 179.7,
+   "within_1h_pct": 64.8,
+   "within_4h_pct": 94.6
+  },
+  {
+   "brand": "British_Airways",
+   "answered_conversations": 15938,
+   "median_frt_min": 181.8,
+   "p90_frt_min": 594.0,
+   "within_1h_pct": 15.5,
+   "within_4h_pct": 59.5
+  },
+  {
+   "brand": "Tesco",
+   "answered_conversations": 15242,
+   "median_frt_min": 100.1,
+   "p90_frt_min": 529.0,
+   "within_1h_pct": 33.4,
+   "within_4h_pct": 76.5
+  },
+  {
+   "brand": "UPSHelp",
+   "answered_conversations": 14017,
+   "median_frt_min": 13.7,
+   "p90_frt_min": 101.2,
+   "within_1h_pct": 87.0,
+   "within_4h_pct": 95.4
+  },
+  {
+   "brand": "hulu_support",
+   "answered_conversations": 13884,
+   "median_frt_min": 757.0,
+   "p90_frt_min": 3223.4,
+   "within_1h_pct": 24.6,
+   "within_4h_pct": 38.2
+  },
+  {
+   "brand": "VirginTrains",
+   "answered_conversations": 13806,
+   "median_frt_min": 3.5,
+   "p90_frt_min": 12.4,
+   "within_1h_pct": 99.8,
+   "within_4h_pct": 100.0
+  },
+  {
+   "brand": "ChipotleTweets",
+   "answered_conversations": 13790,
+   "median_frt_min": 12.8,
+   "p90_frt_min": 62.3,
+   "within_1h_pct": 89.5,
+   "within_4h_pct": 96.7
+  },
+  {
+   "brand": "sprintcare",
+   "answered_conversations": 11536,
+   "median_frt_min": 9.5,
+   "p90_frt_min": 84.5,
+   "within_1h_pct": 86.9,
+   "within_4h_pct": 96.3
+  },
+  {
+   "brand": "AskPlayStation",
+   "answered_conversations": 11312,
+   "median_frt_min": 180.2,
+   "p90_frt_min": 1598.0,
+   "within_1h_pct": 37.3,
+   "within_4h_pct": 54.6
+  },
+  {
+   "brand": "XboxSupport",
+   "answered_conversations": 10785,
+   "median_frt_min": 94.5,
+   "p90_frt_min": 562.6,
+   "within_1h_pct": 35.7,
+   "within_4h_pct": 76.5
+  },
+  {
+   "brand": "AskTarget",
+   "answered_conversations": 10603,
+   "median_frt_min": 145.2,
+   "p90_frt_min": 560.7,
+   "within_1h_pct": 23.5,
+   "within_4h_pct": 65.5
+  }
+ ],
+ "hyper": "extracts/support_extracts.hyper"
+}

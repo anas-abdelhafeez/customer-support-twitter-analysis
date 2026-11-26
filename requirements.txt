@@ -1,0 +1,5 @@
+duckdb>=1.0
+pandas>=2.0
+pantab>=5.0
+tableauhyperapi>=0.0.19000
+pytest>=7.0
