@@ -6,7 +6,7 @@
 
 https://anas-abdelhafeez.github.io/customer-support-twitter-analysis/
 
-A Python analysis of 2.81 million real customer-support tweets across 108 brands: how long customers wait for a first reply, who answers fast, and when the pressure peaks. It ships a 7-tab dashboard and **Tableau-ready extracts** (CSV and a `.hyper` file) so the same numbers can be rebuilt in Tableau.
+A Python analysis of 2.81 million real customer-support tweets across 108 brands: how long customers wait for a first reply, who answers fast, and when the pressure peaks. It ships a 7-tab dashboard and **Tableau-ready extracts** (CSV and a `.hyper` file) so the same numbers can be rebuilt in Tableau. The numbers are also published as a **[Tableau Public dashboard](https://public.tableau.com/app/profile/anas.mahmoud7907/viz/CustomerSupportonTwitter-ResponseTimeAnalysis/Dashboard1)**.
 
 
 ## Headline findings
